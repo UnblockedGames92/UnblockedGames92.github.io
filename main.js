@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolor-hex.org%2Fcolor%2F588157&psig=AOvVaw2qD7jn96fY5ocOz1BOk3ry&ust=1736164016775000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC_gY_B3ooDFQAAAAAdAAAAABAE',  // Default background image
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.htmlcsscolor.com%2Fhex%2F588157&psig=AOvVaw2qD7jn96fY5ocOz1BOk3ry&ust=1736164016775000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC_gY_B3ooDFQAAAAAdAAAAABAI',  // Default background image
         '#344E41',          // Default primary color
         '#DAD7CD',          // Default secondary color
         '1600'              // Default background resolution
